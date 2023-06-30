@@ -16,4 +16,6 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 ## Execution
 
+Required: Java SDK 17. 
+
 To run simulation of game of life run `main` method in [Main.java](src/com/horbach/gameoflife/Main.java).
